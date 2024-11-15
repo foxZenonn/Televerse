@@ -66,7 +66,7 @@ Change your query and try again!!**
    ```
 5. install `requirements`
    ```sh
-   pip3.10 install requirements.txt
+   pip3.10 install -r requirements.txt
    ```
 6. Add `query_id/user`
    ```sh
