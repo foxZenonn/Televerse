@@ -1,0 +1,19 @@
+( query_id= / user ) replace this line
+👆                    👆
+👆Input query or User👆
+
+           ❕WARNING❕
+SCRIPT DOES NOT SUPPORT MULTIQUERY ❌
+      
+          ❕SUGGESTION❕
+If you want to run another query,
+please run it in the termux terminal!!
+
+$cd
+$mkdir Odyssey1
+$cp -r Odtssey/* Odyssey1/
+$cd Odyysey1
+$nano query.txt (re-enter another account query)
+nano exit crtl+x / y / enter
+$python3.10 main.py
+
